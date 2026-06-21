@@ -1,0 +1,80 @@
+
+--- New Order Session ---
+Timestamp: 2026-06-10 18:28:07
+Name         | Items Ordered        | Amount
+---------------------------------------------
+Hamza        | Biryani, Sandwich    | Rs.360   
+Luqman       | Pizza, Burger        | Rs.2650  
+Hassan       | Chiken, Pasta        | Rs.1700  
+Asif         | Biryani, Tea         | Rs.370   
+---------------------------------------------
+Total Bill: Rs.5080
+
+--- New Order Session ---
+Timestamp: 2026-06-10 18:30:35
+Name         | Items Ordered        | Amount
+---------------------------------------------
+Hamza        | Biryani, Sandwich    | Rs.1270.0
+Luqman       | Pizza, Burger        | Rs.1270.0
+Hassan       | Chiken, Pasta        | Rs.1270.0
+Asif         | Biryani, Tea         | Rs.1270.0
+---------------------------------------------
+Total Bill: Rs.5080
+Hamza ordered Pizza - Rs 2200
+
+--- New Order Session ---
+Hamza: Pizza, Tea, Burger -> Rs.2720
+Noman: Tea, Burger -> Rs.520
+Luqman: Burger, Chiken -> Rs.1950
+Total Bill: Rs.5190
+
+--- New Order Session ---
+Hamza: Pizza, Tea, Burger -> Rs.1730.0
+Noman: Tea, Burger -> Rs.1730.0
+Luqman: Burger, Chiken -> Rs.1730.0
+Total Bill: Rs.5190
+
+--- New Order Session ---
+Timestamp: 2026-06-20 14:16:11
+Mode: CUSTOM
+Name             | Items                          | Amount
+-------------------------------------------------------
+Hamza            | Burger, Tea, Chiken            | Rs.2020
+Qazi             | Sandwich, Biryani, Coffee      | Rs.410
+Hassan           | Sandwich, Biryani, Chiken, Pasta | Rs.2060
+-------------------------------------------------------
+Total Bill: Rs.4490
+
+--- New Order Session ---
+Timestamp: 2026-06-20 14:16:22
+Mode: EQUAL
+Name             | Items                          | Amount
+-------------------------------------------------------
+Hamza            | Burger, Tea, Chiken            | Rs.1497
+Qazi             | Sandwich, Biryani, Coffee      | Rs.1497
+Hassan           | Sandwich, Biryani, Chiken, Pasta | Rs.1497
+-------------------------------------------------------
+Total Bill: Rs.4490
+
+--- New Order Session ---
+Timestamp: 2026-06-20 14:20:34
+Mode: EQUAL
+Name             | Items                          | Amount
+-------------------------------------------------------
+Hamza            | Sandwich, Biryani, Chiken      | Rs.2590
+Farmeed          | Pizza, Biryani, Biryani, Chiken | Rs.2590
+Qazi             | Sandwich, Coffee, Chiken       | Rs.2590
+-------------------------------------------------------
+Total Bill: Rs.7770
+
+════════════════════════════════════════════════════
+  Session: 2026-06-20 14:53:06  |  Mode: CUSTOM
+────────────────────────────────────────────────────
+  Guest              Items                  Amount
+────────────────────────────────────────────────────
+  Hamza              Sandwich, Biryani, Coffee Rs.410
+  Luqman             Burger, Pasta, Biryani Rs.950
+  Asif               Pasta, Biryani         Rs.500
+────────────────────────────────────────────────────
+  Grand Total: Rs.1860
+════════════════════════════════════════════════════

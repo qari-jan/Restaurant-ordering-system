@@ -1,0 +1,8 @@
+Burger,450
+Pizza,2200  
+Tea,70
+Sandwich,60  
+Pasta,200 
+Coffee,50
+Biryani,300
+Chiken,1500
